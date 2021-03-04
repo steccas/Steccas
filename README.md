@@ -8,13 +8,14 @@ ____
 ____
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&theme=blue-green)
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ____
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Steccas)
 ____
+
+A stupid joke? Why not 😂
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Steccas/Steccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
