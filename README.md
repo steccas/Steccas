@@ -10,7 +10,7 @@ ____
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true)
 ____
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Steccas)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Steccas) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Steccas)] ![Repos Badge](https://badges.pufler.dev/repos/Steccas)]
 
 <!--
 **Steccas/Steccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
