@@ -32,7 +32,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=)](https://github.com/ProtonClient)
 
 ____
 
