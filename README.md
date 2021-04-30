@@ -15,7 +15,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 - 👯 I’m looking to collaborate on building crypto trading bots
 - 🤔 I’m looking for help with finding space for my server ahahah
 - 💬 Ask me about cybersecurity, linux and networks!
-- 📫 How to reach me: use my links at the top!
+- 📫 How to reach me: Use my links at the top!
 - 😄 Pronouns: Don't trow me this politically correct nonsense
 - 💜 Interests: Tech, kayak, gaming, movies, tv series, training, cars and food!
 - ⚡ Fun fact: I dunno, I'm fun? I hope
