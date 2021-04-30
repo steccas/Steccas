@@ -13,7 +13,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 - 🔭 I’m currently working on creating my homelab check also my pinned repos!
 - 🌱 I’m currently learning python bots
 - 👯 I’m looking to collaborate on building crypto trading bots
-- 🤔 I’m looking for help with finding space for my server ahahah
+- 🤔 I’m looking for help with finding space for my server or a GPU ahahah
 - 💬 Ask me about cybersecurity, linux and networks!
 - 📫 How to reach me: Use my links at the top!
 - 😄 Pronouns: Don't trow me this politically correct nonsense
