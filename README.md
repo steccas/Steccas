@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luca Steccanella</h1>
-
-<h3 align="center">I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
-I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
-</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=protonmail" alt="Protonmail"/></a>
@@ -12,6 +7,9 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
+I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
+I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
+
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
@@ -19,11 +17,36 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 
 <summary>
   Projects I am currently working on
-  asdadad
 </summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
 
+
+## 📈 Github Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true)
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true)
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>🏆 My GitHub trophies</summary>
+  <br/>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
+</details>
+
+<!--
 ____
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true)
@@ -38,7 +61,7 @@ ____
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 
 
-<!--
+
 **Steccas/Steccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
