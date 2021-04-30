@@ -1,4 +1,4 @@
-## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Luca Steccanella
+## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm Luca Steccanella
 
 I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
 I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
