@@ -35,5 +35,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<summary>
+  Projects I am currently working on
+</summary>
 
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=)](https://github.com/)
+
+
+<br />
 -->
