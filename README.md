@@ -16,7 +16,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 </p>
 <p align="center">
   <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="steccas"/></a>
+  <a href="https://www.buymeacoffee.com/steccas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 72px !important;" ></a>
 </p>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories)!
