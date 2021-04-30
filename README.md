@@ -20,7 +20,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 - 💜 Interests: Tech, kayak, gaming, movies, tv series, training, cars and food!
 - ⚡ Fun fact: I dunno, I'm fun? I hope
 
-#### My stack 👨‍💻
+### My stack 👨‍💻
 
 Tools that I use on a daily basis, or that I've used in the past.
 
@@ -30,7 +30,7 @@ Tools that I use on a daily basis, or that I've used in the past.
 
 <details> 
   <summary>
-    Projects I am currently working on
+    <h3>Projects I am currently working on</h3>
   </summary>
   <br/>
   <p align="left"> <a href="https://github.com/Steccas/ProtonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient" alt="steccas" /></a> </p>
