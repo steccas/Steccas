@@ -12,14 +12,14 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-<h4 align="center">Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!</h4>
-<p align="center">
-  <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
+### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!
+<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
-</p>
+
 
 <summary>
   Projects I am currently working on
+  asdadad
 </summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
@@ -32,11 +32,7 @@ ____
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true)
 ____
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Steccas) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Steccas) ![Repos Badge](https://badges.pufler.dev/repos/Steccas)
-____
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Profile View Counter](https://komarev.com/ghpvc/?username=Steccas) ![Repos Badge](https://badges.pufler.dev/repos/Steccas)
 ____
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
