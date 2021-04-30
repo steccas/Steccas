@@ -1,27 +1,22 @@
-## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm Luca Steccanella
+<h1 align="center">Hi 👋, I'm Luca Steccanella</h1>
 
-I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
+<h3 align="center">I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
 I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
-
-## 🙋‍♂️ Connect with me:
+</h3>
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/Steccas94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://steccas.linktr.ee/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
+<a href="https://steccas.linktr.ee/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=links&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Steccas94?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Steccas"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasteccanella/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Steccas94"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://ko-fi.com/steccas"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.buymeacoffee.com/steccas"><img alt="Ko-fi" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/></a>
 </p>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories)!
@@ -29,8 +24,6 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 <summary>
   Projects I am currently working on
 </summary>
-
-<br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
 
@@ -46,9 +39,10 @@ ____
 ____
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 ____
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 
 
 <!--
