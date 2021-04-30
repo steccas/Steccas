@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=protonmail" alt="Protonmail"/></a>
-  <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Steccas94?color=0077D6c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
@@ -14,13 +14,10 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
 
-
-<summary>
+<!--<summary>
   Projects I am currently working on
 </summary>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)-->
 
 ## 📈 Github Stats
 
@@ -28,13 +25,13 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true)
+    <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true" alt="steccas" /></a> </p>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true)
+  <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true" alt="steccas" /></a> </p>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -43,7 +40,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 <details>
   <summary>🏆 My GitHub trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
+  <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 </details>
 
 <!--
