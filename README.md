@@ -8,7 +8,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 <br>
 <a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
-<a href="https://steccas.linktr.ee/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=links&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/website?style=for-the-badge&up_message=links&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Steccas94?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
@@ -16,7 +16,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 </p>
 <p align="center">
   <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://www.buymeacoffee.com/steccas"><img alt="Ko-fi" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/></a>
+  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="steccas"/></a>
 </p>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories)!
