@@ -10,7 +10,7 @@
 I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
 I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
 
-- 🔭 I’m currently working on creating my homelab
+- 🔭 I’m currently working on creating my homelab check also my pinned repos!
 - 🌱 I’m currently learning python bots
 - 👯 I’m looking to collaborate on building crypto trading bots
 - 🤔 I’m looking for help with finding space for my server ahahah
@@ -27,18 +27,6 @@ Tools that I use on a daily basis, or that I've used in the past.
 <a href="https://stackshare.io/steccas/my-personal-stack">
   <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
 </a>
-
-<h3>
-  <details> 
-    <summary>
-      Projects I am currently working on
-    </summary>
-    <br/>
-    <p align="left"> <a href="https://github.com/Steccas/ProtonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient" alt="steccas" /></a> </p>
-    <br/>
-    <p align="left"> <a href="https://github.com/Steccas/steccaScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=steccaScripts" alt="steccas" /></a> </p>
-  </details>
-</h3>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
