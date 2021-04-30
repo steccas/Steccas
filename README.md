@@ -6,17 +6,13 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
-<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/website?style=for-the-badge&up_message=links&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
-</p>
-<p align="center">
+  <a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/emailme-grey?style=for-the-badge&logo=protonmail" alt="Protonmail"/></a>
+  <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/website?style=for-the-badge&up_message=links&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
   <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Steccas94?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-</p>
-<p align="center">
   <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Steccas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="steccas" data-color="#FFDD00" data-emoji="🍺"  data-font="Comic" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20" width="72" alt="steccas"/></a>
 </p>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories)!
