@@ -28,15 +28,17 @@ Tools that I use on a daily basis, or that I've used in the past.
   <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
 </a>
 
-<details> 
-  <summary>
-    <h3>Projects I am currently working on</h3>
-  </summary>
-  <br/>
-  <p align="left"> <a href="https://github.com/Steccas/ProtonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient" alt="steccas" /></a> </p>
-  <br/>
-  <p align="left"> <a href="https://github.com/Steccas/steccaScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=steccaScripts" alt="steccas" /></a> </p>
-</details>
+<h3>
+  <details> 
+    <summary>
+      Projects I am currently working on
+    </summary>
+    <br/>
+    <p align="left"> <a href="https://github.com/Steccas/ProtonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient" alt="steccas" /></a> </p>
+    <br/>
+    <p align="left"> <a href="https://github.com/Steccas/steccaScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=steccaScripts" alt="steccas" /></a> </p>
+  </details>
+</h3>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
