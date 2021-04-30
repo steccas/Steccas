@@ -10,20 +10,42 @@
 I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
 I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
 
+- 🔭 I’m currently working on creating my homelab
+- 🌱 I’m currently learning python bots
+- 👯 I’m looking to collaborate on building crypto trading bots
+- 🤔 I’m looking for help with finding space for my server ahahah
+- 💬 Ask me about cybersecurity, linux and networks!
+- 📫 How to reach me: use my links at the top!
+- 😄 Pronouns: Don't trow me this politically correct nonsense
+- 💜 Interests: Tech, kayak, gaming, movies, tv series, training, cars and food!
+- ⚡ Fun fact: I dunno, I'm fun? I hope
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/steccas/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Steccas :: StackShare" />
+  </a>
+</p>
+
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
 
-<!--<summary>
+<!--
+<summary>
   Projects I am currently working on
 </summary>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)-->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
+
+-->
 
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>📊 Profile Stats</summary>
   <br/>
     <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true" alt="steccas" /></a> </p>
 </details>
@@ -32,13 +54,11 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
   <summary>💻 Most used languages</summary>
   <br/>
   <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true" alt="steccas" /></a> </p>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>🏆 My GitHub trophies</summary>
+  <summary>🏆 My trophies</summary>
   <br/>
   <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 </details>
