@@ -12,10 +12,10 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!
+<h4 align="center">Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!</h4>
 <p align="center">
   <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
-  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="27" width="97" alt="steccas"/></a>
+  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
 </p>
 
 <summary>
