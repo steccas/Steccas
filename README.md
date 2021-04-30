@@ -24,7 +24,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 
 Tools that I use on a daily basis, or that I've used in the past.
 
-<a href="https://stackshare.io/steccas/my-personal-stack">
+<a href="https://stackshare.io/steccas/my-stack">
   <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
 </a>
 
