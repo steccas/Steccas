@@ -20,16 +20,15 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 - 💜 Interests: Tech, kayak, gaming, movies, tv series, training, cars and food!
 - ⚡ Fun fact: I dunno, I'm fun? I hope
 
-<h2 align="center">My stack :man_technologist:</h2>
+#### My stack 👨‍💻
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/steccas/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Steccas :: StackShare" />
-  </a>
-</p>
+Tools that I use on a daily basis, or that I've used in the past.
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and cheking these!
+<a href="https://stackshare.io/steccas/my-personal-stack">
+  <img src="http://img.shields.io/badge/tech-stack-0690fa.svgstyle=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
+</a>
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these!
 <a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
 
