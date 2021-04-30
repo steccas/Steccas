@@ -25,20 +25,22 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 Tools that I use on a daily basis, or that I've used in the past.
 
 <a href="https://stackshare.io/steccas/my-personal-stack">
-  <img src="https://img.shields.io/badge/my-stack-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
+  <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
 </a>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these!
-<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/offers-check-green?style=for-the-badge&logo=linktree"></a>
+<details> 
+  <summary>
+    Projects I am currently working on
+  </summary>
+  <br/>
+  <p align="left"> <a href="https://github.com/Steccas/ProtonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient" alt="steccas" /></a> </p>
+  <br/>
+  <p align="left"> <a href="https://github.com/Steccas/steccaScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=steccaScripts" alt="steccas" /></a> </p>
+</details>
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
+<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
-
-<!--
-<summary>
-  Projects I am currently working on
-</summary>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Steccas&repo=ProtonClient)](https://github.com/Steccas/ProtonClient)
-
--->
 
 ## 📈 Github Stats
 
