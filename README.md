@@ -29,7 +29,7 @@ Tools that I use on a daily basis, or that I've used in the past.
 </a>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
-<a href="https://steccas.linktr.ee/"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
+<a href="https://linktr.ee/steccas"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
   <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
 
 ## 📈 Github Stats
