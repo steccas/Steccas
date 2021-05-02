@@ -16,7 +16,7 @@ I'm not a developer since I work way better with Operating Systems, Shells, Netw
 - 🤔 I’m looking for help with finding space for my server or a GPU ahahah
 - 💬 Ask me about cybersecurity, linux and networks!
 - 📫 How to reach me: Use my links at the top!
-- 😄 Pronouns: Don't trow me this politically correct nonsense
+- 😄 Pronouns: Don't throw me this politically correct nonsense; natural languages, as computer's, have rules that must be followed
 - 💜 Interests: Tech, kayak, gaming, movies, tv series, training, cars and food!
 - ⚡ Fun fact: I dunno, I'm fun? I hope
 
