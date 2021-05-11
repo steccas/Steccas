@@ -30,7 +30,9 @@ Tools that I use on a daily basis, or that I've used in the past.
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
 <a href="https://linktr.ee/steccas"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
-  <a href="https://www.buymeacoffee.com/steccas"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" width="101" alt="steccas"/></a>
+<a href="https://www.buymeacoffee.com/steccas" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="27.8">
+</a>
 
 ## 📈 Github Stats
 
@@ -54,6 +56,8 @@ Tools that I use on a daily basis, or that I've used in the past.
   <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 </details>
 
+<br><br/>
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Steccas&repo=Steccas&countColorcountColor&countColor=%237B1E7A)
 <!--
 ____
 
