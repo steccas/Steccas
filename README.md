@@ -56,7 +56,6 @@ Tools that I use on a daily basis, or that I've used in the past.
   <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 </details>
 
-<br><br/>
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Steccas&repo=Steccas&countColorcountColor&countColor=%237B1E7A)
 <!--
 ____
