@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasteccanella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:steccas@pm.me"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=protonmail" alt="Protonmail"/></a>
-  <a href="https://github.com/Steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/steccas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/Steccas94"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/Steccas/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
@@ -28,7 +28,7 @@ Tools that I use on a daily basis, or that I've used in the past.
   <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Steccas :: StackShare" />
 </a>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Steccas?tab=repositories) and checking these links
+### Show ❤️ by 🌟 my [repositories](https://github.com/steccas?tab=repositories) and checking these links
 <a href="https://linktr.ee/steccas"><img alt="check!" src="https://img.shields.io/badge/check-offers-green?style=for-the-badge&logo=linktree"></a>
 <a href="https://www.buymeacoffee.com/steccas" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="27.8">
@@ -40,20 +40,20 @@ Tools that I use on a daily basis, or that I've used in the past.
 <details> 
   <summary>📊 Profile Stats</summary>
   <br/>
-    <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api?username=Steccas&show_icons=true&count_private=true" alt="steccas" /></a> </p>
+    <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api?username=steccas&show_icons=true&count_private=true" alt="steccas" /></a> </p>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steccas&layout=compact&count_private=true" alt="steccas" /></a> </p>
+  <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steccas&layout=compact&count_private=true" alt="steccas" /></a> </p>
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>🏆 My trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/Steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
+  <p align="left"> <a href="https://github.com/steccas"><img src="https://github-profile-trophy.vercel.app/?username=steccas" alt="steccas" /></a> </p>
 </details>
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Steccas&repo=Steccas&countColorcountColor&countColor=%237B1E7A)
