@@ -11,9 +11,9 @@ I am a passionate CyberSecurity analyst, SysAdmin and Network administrator.
 I'm not a developer since I work way better with Operating Systems, Shells, Network appliances or SIEM but I use GitHub for various useful scripts or tool that I make for myself from time to time!
 
 - 🔭 I’m currently working on creating my homelab, check also my pinned repos!
-- 🌱 I’m currently learning python bots
-- 👯 I’m looking to collaborate on building crypto trading bots
-- 🤔 I’m looking for help with finding space for my server or a GPU ahahah
+- 🌱 I’m currently learning rust and solanda blockchain
+- 👯 I’m looking to collaborate on building my it business
+- 🤔 I’m looking for help with creating POCs
 - 💬 Ask me about cybersecurity, linux and networks!
 - 📫 How to reach me: Use my links at the top!
 - 😄 Pronouns: Don't throw me this politically correct nonsense; natural languages, as computer's, have rules that must be followed
